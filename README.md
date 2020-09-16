@@ -4,9 +4,11 @@
 
 Start Date: September 15, 2020<br>
 
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (1), 8kyu (1)</sub>
+
 <br><br>
 
 
-Day 1: [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) _7kyu_
+Day 1: [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) <sub>_7kyu_</sub>
 <br>
-Day 0: [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b) _8kyu_
+Day 0: [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b) <sub>_8kyu_</sub>
