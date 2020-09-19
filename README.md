@@ -10,7 +10,9 @@ Start Date: September 15, 2020<br>
 <br><br>
 
 
-Day 3: [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/) <sub>_8kyu_</sub> | [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/) <sub>_7kyu_</sub>
+Day 3
++ [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/) <sub>_8kyu_</sub>
++ [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/) <sub>_7kyu_</sub>
 <br>
 Day 2: [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/) <sub>_8kyu_</sub>
 <br>
