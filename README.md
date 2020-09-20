@@ -4,11 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 5</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (2), 8kyu (3)</sub>
+<sub>Count: 7</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (3), 8kyu (4)</sub>
 
 <br><br>
 
+
+Day 4
++ [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/) <sub>_8kyu_</sub>
++ [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/) <sub>_7kyu_</sub>
 
 Day 3
 + [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/) <sub>_8kyu_</sub>
