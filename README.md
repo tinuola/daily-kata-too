@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 12</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (6), 8kyu (6)</sub>
+<sub>Count: 13</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (7), 8kyu (6)</sub>
 
 <br><br>
+
+Day 11: [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/)<sub>_7kyu_</sub>
 
 Day 10: [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/) <sub>_7kyu_</sub>
 
