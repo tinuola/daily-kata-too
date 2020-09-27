@@ -4,18 +4,23 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 13</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (7), 8kyu (6)</sub>
+<sub>Count: 15</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (8), 8kyu (7)</sub>
 
 <br><br>
 
-Day 11: [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/)<sub>_7kyu_</sub>
+
+Day 12:
++ [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/) <sub>_8kyu_</sub>
++ [Most digits](https://www.codewars.com/kata/58daa7617332e59593000006) <sub>_7kyu_</sub>
+
+Day 11: [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/) <sub>_7kyu_</sub>
 
 Day 10: [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/) <sub>_7kyu_</sub>
 
 Day 9: [Complete The Pattern #1](https://www.codewars.com/kata/5572f7c346eb58ae9c000047/) <sub>_7kyu_</sub>
 
-Day 8: [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)  <sub>_8kyu_</sub>
+Day 8: [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/) <sub>_8kyu_</sub>
 
 Day 7: [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071) <sub>_7kyu_</sub>
 
