@@ -4,11 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 15</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (8), 8kyu (7)</sub>
+<sub>Count: 16</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (9), 8kyu (7)</sub>
 
 <br><br>
 
+
+
+Day 13: [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045/) <sub>_7kyu_</sub>
 
 Day 12:
 + [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/) <sub>_8kyu_</sub>
