@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 16</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (9), 8kyu (7)</sub>
+<sub>Count: 17</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (10), 8kyu (7)</sub>
 
 <br><br>
 
 
+
+Day 14: [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/) <sub>_7kyu_</sub>
 
 Day 13: [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045/) <sub>_7kyu_</sub>
 
