@@ -4,12 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 17</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (10), 8kyu (7)</sub>
+<sub>Count: 18</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (11), 8kyu (7)</sub>
 
 <br><br>
 
 
+day 15: [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/) <sub>_7kyu_</sub> 
 
 Day 14: [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/) <sub>_7kyu_</sub>
 
