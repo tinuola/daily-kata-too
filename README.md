@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 18</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (11), 8kyu (7)</sub>
+<sub>Count: 19</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (7)</sub>
 
 <br><br>
 
+
+Day 16: [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/) <sub>_8kyu_</sub>
 
 day 15: [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/) <sub>_7kyu_</sub> 
 
