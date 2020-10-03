@@ -4,11 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 21</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (9)</sub>
+<sub>Count: 23</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (11)</sub>
 
 <br><br>
 
+
+Day 18:
++ [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6) <sub>_8kyu_</sub>
++ [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/) <sub>_8kyu_</sub>
 
 Day 17: 
 + [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009) <sub>_8kyu_</sub>
