@@ -4,11 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 23</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (11)</sub>
+<sub>Count: 24</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (12)</sub>
 
 <br><br>
 
+
+
+Day 19: [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/) <sub>_8kyu_</sub>
 
 Day 18:
 + [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6) <sub>_8kyu_</sub>
