@@ -4,12 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 24</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (12)</sub>
+<sub>Count: 25</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (13)</sub>
 
 <br><br>
 
 
+Day 20: [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/) <sub>_8kyu_</sub>
 
 Day 19: [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/) <sub>_8kyu_</sub>
 
