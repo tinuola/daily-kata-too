@@ -4,11 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 25</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (13)</sub>
+<sub>Count: 26</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (14)</sub>
 
 <br><br>
 
+
+
+
+Day 21: [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/) <sub>_8kyu_</sub>
 
 Day 20: [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/) <sub>_8kyu_</sub>
 
