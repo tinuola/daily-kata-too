@@ -4,13 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 26</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (14)</sub>
+<sub>Count: 27</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (15)</sub>
 
 <br><br>
 
 
 
+Day 22: [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/) <sub>_8kyu_</sub>
 
 Day 21: [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/) <sub>_8kyu_</sub>
 
