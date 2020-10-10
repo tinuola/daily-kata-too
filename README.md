@@ -4,11 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 28</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (16)</sub>
+<sub>Count: 29</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (12), 8kyu (17)</sub>
 
 <br><br>
 
+
+Day 25: [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/) <sub>_8kyu_</sub>
+
+Day 24: Missed
 
 Day 23: [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/) <sub>_8kyu_</sub>
 
