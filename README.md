@@ -4,11 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 31</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (13), 8kyu (18)</sub>
+<sub>Count: 32</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (13), 8kyu (19)</sub>
 
 <br><br>
 
+Day 28: [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7) <sub>_8kyu_</sub>
 
 Day 27: [Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a/) <sub>_7kyu_</sub> 
 
