@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 34</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (13), 8kyu (21)</sub>
+<sub>Count: 35</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (13), 8kyu (22)</sub>
 
 <br><br>
 
+
+Day 31: [What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/) <sub>_8kyu_</sub>
 
 Day 30: [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) <sub>_8kyu_</sub>
 
