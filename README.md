@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 36</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (), 7kyu (14), 8kyu (22)</sub>
+<sub>Count: 37</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (14), 8kyu (22)</sub>
 
 <br><br>
+
+Day 33: [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/) <sub>_6kyu_</sub>
 
 Day 32: [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7/) <sub>_7kyu_</sub>
 
