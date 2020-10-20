@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 38</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (14), 8kyu (23)</sub>
+<sub>Count: 39</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (14), 8kyu (24)</sub>
 
 <br><br>
+
+Day 35: [How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/) <sub>_8kyu_</sub>
 
 Day 34: [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/) <sub>_8kyu_</sub>
 
