@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 39</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (14), 8kyu (24)</sub>
+<sub>Count: 40</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (15), 8kyu (24)</sub>
 
 <br><br>
+
+Day 36: [Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/) <sub>_7kyu_</sub>
 
 Day 35: [How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/) <sub>_8kyu_</sub>
 
