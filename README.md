@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 40</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (15), 8kyu (24)</sub>
+<sub>Count: 41</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (15), 8kyu (25)</sub>
 
 <br><br>
+
+Day 37: [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/) <sub>_8kyu_</sub>
 
 Day 36: [Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/) <sub>_7kyu_</sub>
 
