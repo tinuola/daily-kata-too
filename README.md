@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 41</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (15), 8kyu (25)</sub>
+<sub>Count: 42</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (16), 8kyu (25)</sub>
 
 <br><br>
+
+Day 38: [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/) <sub>_7kyu_</sub>
 
 Day 37: [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/) <sub>_8kyu_</sub>
 
