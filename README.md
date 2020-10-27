@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 45</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (17), 8kyu (27)</sub>
+<sub>Count: 46</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (18), 8kyu (27)</sub>
 
 <br><br>
+
+Day 42: [Help Suzuki rake his garden!]() <sub>_7kyu_</sub>
 
 Day 41: [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/) <sub>_8kyu_</sub>
 
