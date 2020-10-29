@@ -4,10 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 46</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (18), 8kyu (28)</sub>
+<sub>Count: 48</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (19), 8kyu (28)</sub>
 
 <br><br>
+
+
+Day 44: [Sum of array singles](https://www.codewars.com/kata/59f11118a5e129e591000134/) <sub>_7kyu_</sub>
 
 Day 43: [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/) <sub>_8kyu_</sub>
 
