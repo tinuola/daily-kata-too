@@ -4,11 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 48</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (19), 8kyu (28)</sub>
+<sub>Count: 49</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (20), 8kyu (28)</sub>
 
 <br><br>
 
+Day 45: [Consecutive items](https://www.codewars.com/kata/5f6d533e1475f30001e47514/) <sub>_7kyu_</sub>
 
 Day 44: [Sum of array singles](https://www.codewars.com/kata/59f11118a5e129e591000134/) <sub>_7kyu_</sub>
 
