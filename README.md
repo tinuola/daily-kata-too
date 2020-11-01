@@ -5,9 +5,11 @@
 Start Date: September 15, 2020<br>
 
 <sub>Count: 50</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (21), 8kyu (28)</sub>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (21), 8kyu (29)</sub>
 
 <br><br>
+
+Day 47: [Is it a palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/) <sub>_8kyu_</sub>
 
 Day 46: [Remove consecutive duplicate words](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3) <sub>_7kyu_</sub>
 
