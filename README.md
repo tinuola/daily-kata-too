@@ -4,11 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 53</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (21), 8kyu (31)</sub>
+<sub>Count: 54</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (22), 8kyu (31)</sub>
 
 <br><br>
 
+Day 50: [Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4) <sub>_7kyu_</sub>
 
 Day 49: [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/) <sub>_8kyu_</sub>
 
