@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 54</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (22), 8kyu (31)</sub>
+<sub>Count: 55</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (23), 8kyu (31)</sub>
 
 <br><br>
+
+Day 51: [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57/) <sub>_7kyu_</sub> 
 
 Day 50: [Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4) <sub>_7kyu_</sub>
 
