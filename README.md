@@ -5,9 +5,11 @@
 Start Date: September 15, 2020<br>
 
 <sub>Count: 55</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (23), 8kyu (31)</sub>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (23), 8kyu (32)</sub>
 
 <br><br>
+
+Day 52: [Palindrome Strings](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/) <sub>_8kyu_</sub>
 
 Day 51: [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57/) <sub>_7kyu_</sub> 
 
