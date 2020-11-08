@@ -4,10 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 55</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (23), 8kyu (32)</sub>
+<sub>Count: 57</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (23), 8kyu (33)</sub>
 
 <br><br>
+
+
+
+Day 53: [I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/) <sub>_8kyu_</sub>
 
 Day 52: [Palindrome Strings](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/) <sub>_8kyu_</sub>
 
