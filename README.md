@@ -4,11 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 61</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (26), 8kyu (34)</sub>
+<sub>Count: 62</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (27), 8kyu (34)</sub>
 
 <br><br>
 
+Day 58: [Product Array (Array Series #5)](https://www.codewars.com/kata/5a905c2157c562994900009d) <sub>_7kyu_</sub>
 
 Day 57: [Combine objects](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819/) <sub>_7kyu_</sub>
 
