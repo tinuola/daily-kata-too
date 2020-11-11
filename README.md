@@ -4,10 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 60</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (25), 8kyu (34)</sub>
+<sub>Count: 61</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (26), 8kyu (34)</sub>
 
 <br><br>
+
+
+Day 57: [Combine objects](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819/) <sub>_7kyu_</sub>
 
 Day 56: [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d/) <sub>_8kyu_</sub>
 
