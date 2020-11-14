@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 63</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (28), 8kyu (34)</sub>
+<sub>Count: 64</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (29), 8kyu (34)</sub>
 
 <br><br>
+
+Day 60: [Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) <sub>_7kyu_</sub>
 
 Day 59: [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/) <sub>_7kyu_</sub>
 
