@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 65</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (30), 8kyu (34)</sub>
+<sub>Count: 66</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (31), 8kyu (34)</sub>
 
 <br><br>
+
+Day 62: [Sorting Arrays](https://www.codewars.com/kata/57fe864854685b1c420002e0/) <sub>_7kyu_</sub>
 
 Day 61: [Maximum Gap (Array Series #4)](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) <sub>_7kyu_</sub>
 
