@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 68</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (33), 8kyu (34)</sub>
+<sub>Count: 69</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (33), 8kyu (35)</sub>
 
 <br><br>
+
+Day 65: [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/) <sub>_8kyu_</sub>
 
 Day 64: [Minimum Steps (Array Series #6)](https://www.codewars.com/kata/5a91a7c5fd8c061367000002/) <sub>_7kyu_</sub>
 
