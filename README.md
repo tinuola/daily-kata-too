@@ -6,6 +6,7 @@ Start Date: September 15, 2020<br>
 
 <sub>Count: 71</sub><br>
 <sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (1), 7kyu (34), 8kyu (35)</sub>
+<sub>Missed Days: 1</sub>
 
 <br><br>
 
