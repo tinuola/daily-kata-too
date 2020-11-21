@@ -4,10 +4,12 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 70</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (), 6kyu (1), 7kyu (34), 8kyu (35)</sub>
+<sub>Count: 71</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (1), 7kyu (34), 8kyu (35)</sub>
 
 <br><br>
+
+Day 67: [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/) <sub>_5kyu_</sub>
 
 Day 66: [Least Larger](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4) <sub>_7kyu_</sub>
 
