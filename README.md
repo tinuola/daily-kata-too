@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 71</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (1), 7kyu (34), 8kyu (35)</sub>
+<sub>Count: 72</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (1), 7kyu (35), 8kyu (35)</sub>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 68: [Automorphic Number (Special Numbers Series #6)](https://www.codewars.com/kata/5a58d889880385c2f40000aa/) <sub>_7kyu_</sub>
 
 Day 67: [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/) <sub>_5kyu_</sub>
 
