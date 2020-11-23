@@ -4,11 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 74</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (36), 8kyu (35)</sub><br>
+<sub>Count: 76</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (38), 8kyu (35)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 70:
++ [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7/) <sub>_7kyu_</sub>
++ [Larger Product or Sum](https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02/) <sub>_7kyu_</sub>
 
 Day 69: 
 + [Find Screen Size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f/) <sub>_7kyu_</sub>
