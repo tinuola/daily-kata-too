@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 73</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (1), 7kyu (36), 8kyu (35)</sub><br>
+<sub>Count: 74</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (36), 8kyu (35)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
 
-Day 69: [Find Screen Size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f/) <sub>_7kyu_</sub>
+Day 69: 
++ [Find Screen Size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f/) <sub>_7kyu_</sub>
++ [Sum of Two Integers](https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac/) <sub>_6kyu_</sub>
 
 Day 68: [Automorphic Number (Special Numbers Series #6)](https://www.codewars.com/kata/5a58d889880385c2f40000aa/) <sub>_7kyu_</sub>
 
