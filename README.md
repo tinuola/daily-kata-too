@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 77</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (39), 8kyu (35)</sub><br>
+<sub>Count: 78</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (40), 8kyu (35)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 72: [String Matchup](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4/) <sub>_7kyu_</sub>
 
 Day 71: [String Matcher](https://www.codewars.com/kata/565ce4ab24ef4aee6a000074/) <sub>_7kyu_</sub>
 
