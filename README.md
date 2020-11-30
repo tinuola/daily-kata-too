@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 81</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (43), 8kyu (35)</sub><br>
+<sub>Count: 82</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (44), 8kyu (35)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 76: [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0/) <sub>_7kyu_</sub>
 
 Day 75: [Substituting Variables Into Strings: Padded Numbers](https://www.codewars.com/kata/51c89385ee245d7ddf000001/) <sub>_7kyu_</sub>
 
