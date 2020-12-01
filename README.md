@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 82</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (44), 8kyu (35)</sub><br>
+<sub>Count: 83</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (44), 8kyu (36)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 77: [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) <sub>_8kyu_</sub>
 
 Day 76: [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0/) <sub>_7kyu_</sub>
 
