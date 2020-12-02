@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 83</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (44), 8kyu (36)</sub><br>
+<sub>Count: 84</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (45), 8kyu (36)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 78: [Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/) <sub>_7kyu_</sub>
 
 Day 77: [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) <sub>_8kyu_</sub>
 
