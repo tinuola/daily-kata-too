@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 86</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (46), 8kyu (37)</sub><br>
+<sub>Count: 87</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (47), 8kyu (37)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 81: [A Gift Well Spent](https://www.codewars.com/kata/54554846126a002d5b000854/) <sub>_7kyu_</sub>
 
 Day 80: [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212) <sub>_8kyu_</sub>
 
