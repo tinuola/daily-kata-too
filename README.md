@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 88</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (47), 8kyu (38)</sub><br>
+<sub>Count: 89</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (48), 8kyu (38)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 83: [Sum - Square Even, Root Odd](https://www.codewars.com/kata/5a4b16435f08299c7000274f/) <sub>_7kyu_</sub>
 
 Day 82: [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/) <sub>_8kyu_</sub>
 
