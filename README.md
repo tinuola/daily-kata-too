@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 90</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (49), 8kyu (38)</sub><br>
+<sub>Count: 91</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (49), 8kyu (39)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 85: [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/) <sub>_8kyu_</sub>
 
 Day 84: [Sort Out The Men From Boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d/) <sub>_7kyu_</sub>
 
