@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 92</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (50), 8kyu (39)</sub><br>
+<sub>Count: 93</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (51), 8kyu (39)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 87: [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3/) <sub>_7kyu_</sub>
 
 Day 86: [L2: Triple X](https://www.codewars.com/kata/568dc69683322417eb00002c/) <sub>_7kyu_</sub>
 
