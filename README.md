@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 94</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (52), 8kyu (39)</sub><br>
+<sub>Count: 95</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (52), 8kyu (40)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 89: [Counting sheep...]() <sub>_8kyu_</sub>
 
 Day 88: [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056) <sub>_7kyu_</sub>
 
