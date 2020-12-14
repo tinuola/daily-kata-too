@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 95</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (52), 8kyu (40)</sub><br>
+<sub>Count: 96</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (52), 8kyu (41)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 90: [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) <sub>_8kyu_</sub>
 
 Day 89: [Counting sheep...]() <sub>_8kyu_</sub>
 
