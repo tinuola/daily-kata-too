@@ -4,17 +4,19 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 96</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (52), 8kyu (41)</sub><br>
+<sub>Count: 98</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (53), 8kyu (42)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
 
-Day 91: []() 
+Day 92: [Responsible Drinking](https://www.codewars.com/kata/5aee86c5783bb432cd000018/) <sub>_7kyu_</sub>
+
+Day 91: [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1) <sub>_8kyu_</sub>
 
 Day 90: [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) <sub>_8kyu_</sub>
 
-Day 89: [Counting sheep...]() <sub>_8kyu_</sub>
+Day 89: [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) <sub>_8kyu_</sub>
 
 Day 88: [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056) <sub>_7kyu_</sub>
 
