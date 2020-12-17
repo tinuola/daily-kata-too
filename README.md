@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 98</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (53), 8kyu (42)</sub><br>
+<sub>Count: 99</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (54), 8kyu (42)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 93: [Thinking & Testing : Uniq or not Uniq](https://www.codewars.com/kata/56d949281b5fdc7666000004/)  <sub>_7kyu_</sub>
 
 Day 92: [Responsible Drinking](https://www.codewars.com/kata/5aee86c5783bb432cd000018/) <sub>_7kyu_</sub>
 
