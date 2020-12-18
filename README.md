@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 99</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (54), 8kyu (42)</sub><br>
+<sub>Count: 100</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (54), 8kyu (43)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 94: [Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/) <sub>_8kyu_</sub>
 
 Day 93: [Thinking & Testing : Uniq or not Uniq](https://www.codewars.com/kata/56d949281b5fdc7666000004/)  <sub>_7kyu_</sub>
 
