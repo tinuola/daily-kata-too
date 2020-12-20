@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 101</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (54), 8kyu (44)</sub><br>
+<sub>Count: 102</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (55), 8kyu (44)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 96: [Char Code Calculation](https://www.codewars.com/kata/57f75cc397d62fc93d000059/)
 
 Day 95: [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106) <sub>_8kyu_</sub>
 
