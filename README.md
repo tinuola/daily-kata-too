@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 104</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (57), 8kyu (44)</sub><br>
+<sub>Count: 105</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (58), 8kyu (44)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 99 : [Unique string characters](https://www.codewars.com/kata/5a262cfb8f27f217f700000b/) <sub>_7kyu_</sub>
 
 Day 98: [Holiday II - Plane Seating](https://www.codewars.com/kata/57e8f757085f7c7d6300009a/) <sub>_7kyu_</sub>
 
