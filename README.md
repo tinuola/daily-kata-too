@@ -4,11 +4,13 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 105</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (58), 8kyu (44)</sub><br>
+<sub>Count: 106</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (59), 8kyu (44)</sub><br>
 <sub>Missed Days: 1</sub>
 
 <br><br>
+
+Day 100 : [Thinking & Testing : Something capitalized](https://www.codewars.com/kata/56d93f249c844788bc000002/) <sub>_7kyu_</sub>
 
 Day 99 : [Unique string characters](https://www.codewars.com/kata/5a262cfb8f27f217f700000b/) <sub>_7kyu_</sub>
 
