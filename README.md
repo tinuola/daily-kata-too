@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 107</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (60), 8kyu (44)</sub><br>
-<sub>Missed Days: 1</sub>
+<sub>Count: 108</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (61), 8kyu (44)</sub><br>
+<sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 102 : [Array Array Array](https://www.codewars.com/kata/57eb936de1051801d500008a/) <sub>_7kyu_</sub>
 
 Day 101 : [Nth Smallest Element (Array Series #4)](https://www.codewars.com/kata/5a512f6a80eba857280000fc/) <sub>_7kyu_</sub>
 
