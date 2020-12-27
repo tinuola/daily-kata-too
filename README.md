@@ -4,12 +4,16 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 108</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (61), 8kyu (44)</sub><br>
+<sub>Count: 109</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (61), 8kyu (45)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 103: (2 8kyu counting as 1)
++ [Function 2 - Squaring an Argument](https://www.codewars.com/kata/523b623152af8a30c6000027/) <sub>_8kyu_</sub>
++ [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/) <sub>_8kyu_</sub>
 
 Day 102 : [Array Array Array](https://www.codewars.com/kata/57eb936de1051801d500008a/) <sub>_7kyu_</sub>
 
