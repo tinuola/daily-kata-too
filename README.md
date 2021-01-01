@@ -11,7 +11,7 @@ Start Date: September 15, 2020<br>
 
 <br><br>
 
-Day 108 : [](https://www.codewars.com/kata/5a2809dbe1ce0e07f800004d) <sub>_7kyu_</sub>
+Day 108 : [Divisible by previous digit?](https://www.codewars.com/kata/5a2809dbe1ce0e07f800004d) <sub>_7kyu_</sub>
 
 Day 107 : [Digit Sum](https://www.codewars.com/kata/56bcae6366a2ab99f10011ec) <sub>_7kyu_</sub>
 
