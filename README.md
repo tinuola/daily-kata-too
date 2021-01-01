@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 113</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (65), 8kyu (45)</sub><br>
+<sub>Count: 114</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (66), 8kyu (45)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 108 : [](https://www.codewars.com/kata/5a2809dbe1ce0e07f800004d) <sub>_7kyu_</sub>
 
 Day 107 : [Digit Sum](https://www.codewars.com/kata/56bcae6366a2ab99f10011ec) <sub>_7kyu_</sub>
 
