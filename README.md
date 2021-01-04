@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 116</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (68), 8kyu (45)</sub><br>
+<sub>Count: 117</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (68), 8kyu (46)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 111 : [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c/) <sub>_8kyu_</sub>
 
 Day 110 : [Palindrome chain length](https://www.codewars.com/kata/525f039017c7cd0e1a000a26/) <sub>_7kyu_</sub>
 
