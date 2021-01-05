@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 117</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (68), 8kyu (46)</sub><br>
+<sub>Count: 118</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (69), 8kyu (46)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 112 : [Consecutive Differences](https://www.codewars.com/kata/5ff22b6e833a9300180bb953/) <sub>_7kyu_</sub>
 
 Day 111 : [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c/) <sub>_8kyu_</sub>
 
