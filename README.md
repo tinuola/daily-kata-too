@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 118</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (69), 8kyu (46)</sub><br>
+<sub>Count: 119</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (70), 8kyu (46)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 113 : [Product ID from URL](https://www.codewars.com/kata/5e2c7639b5d728001489d910/) <sub>_7kyu_</sub>
 
 Day 112 : [Consecutive Differences](https://www.codewars.com/kata/5ff22b6e833a9300180bb953/) <sub>_7kyu_</sub>
 
