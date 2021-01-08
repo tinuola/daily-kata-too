@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 120</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (70), 8kyu (47)</sub><br>
+<sub>Count: 121</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (71), 8kyu (47)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 115 : [heggeleggleggo](https://www.codewars.com/kata/55ea5304685da2fb40000018/) <sub>_7kyu_</sub>
 
 Day 114 : [Sum of differences in array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/) <sub>_8kyu_</sub>
 
