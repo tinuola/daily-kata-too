@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 122</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (72), 8kyu (47)</sub><br>
+<sub>Count: 123</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (72), 8kyu (48)</sub><br>
 <sub>Missed Days: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 117 : [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/) <sub>_8kyu_</sub>
 
 Day 116 : [Keep the Order](https://www.codewars.com/kata/582aafca2d44a4a4560000e7) <sub>_7kyu_</sub>
 
