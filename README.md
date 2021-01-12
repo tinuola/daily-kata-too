@@ -4,12 +4,16 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 123</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (72), 8kyu (48)</sub><br>
-<sub>Missed Days: 1</sub><br>
+<sub>Count: 124</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (73), 8kyu (48)</sub><br>
+<sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 119 : [Find the calculation type](https://www.codewars.com/kata/5aca48db188ab3558e0030fa) <sub>_7kyu_</sub>
+
+Day 118 : Missed
 
 Day 117 : [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/) <sub>_8kyu_</sub>
 
