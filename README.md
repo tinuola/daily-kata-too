@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 124</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (73), 8kyu (48)</sub><br>
+<sub>Count: 125</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (1), 6kyu (2), 7kyu (74), 8kyu (48)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 120 : [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/) <sub>_7kyu_</sub>
 
 Day 119 : [Find the calculation type](https://www.codewars.com/kata/5aca48db188ab3558e0030fa) <sub>_7kyu_</sub>
 
