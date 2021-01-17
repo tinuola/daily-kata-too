@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 128</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (76), 8kyu (48)</sub><br>
+<sub>Count: 129</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (76), 8kyu (49)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 124 : [Are arrow functions odd?](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5/) <sub>_8kyu_</sub>
 
 Day 123 : [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/) <sub>_5kyu_</sub>
 
