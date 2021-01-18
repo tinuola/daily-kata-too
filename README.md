@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 129</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (76), 8kyu (49)</sub><br>
+<sub>Count: 130</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (77), 8kyu (49)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 125 : [Number Manipulation I (Easy)](https://www.codewars.com/kata/5890579a34a7d44f3b00009e/) <sub>_7kyu_</sub>
 
 Day 124 : [Are arrow functions odd?](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5/) <sub>_8kyu_</sub>
 
