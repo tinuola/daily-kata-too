@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 131</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (49)</sub><br>
+<sub>Count: 132</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (50)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 127 : [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a/) <sub>_8kyu_</sub>
 
 Day 126 : [How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e/) <sub>_7kyu_</sub>
 
