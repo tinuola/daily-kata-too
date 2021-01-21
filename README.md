@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 132</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (50)</sub><br>
+<sub>Count: 133</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (51)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 128 : [Simple validation of a username with regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/) <sub>_8kyu_</sub>
 
 Day 127 : [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a/) <sub>_8kyu_</sub>
 
