@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 133</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (51)</sub><br>
+<sub>Count: 134</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (52)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 129 : [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039/) <sub>_8kyu_</sub>
 
 Day 128 : [Simple validation of a username with regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/) <sub>_8kyu_</sub>
 
