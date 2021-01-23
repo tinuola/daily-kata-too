@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 134</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (78), 8kyu (52)</sub><br>
+<sub>Count: 135</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (79), 8kyu (52)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 130 : [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) <sub>_7kyu_</sub>
 
 Day 129 : [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039/) <sub>_8kyu_</sub>
 
