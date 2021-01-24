@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 135</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (79), 8kyu (52)</sub><br>
+<sub>Count: 136</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (80), 8kyu (52)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 131 : [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/) <sub>_7kyu_</sub>
 
 Day 130 : [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/) <sub>_7kyu_</sub>
 
