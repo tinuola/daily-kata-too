@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 136</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (80), 8kyu (52)</sub><br>
+<sub>Count: 137</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (81), 8kyu (52)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 132 : [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/) <sub>_7kyu_</sub>
 
 Day 131 : [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/) <sub>_7kyu_</sub>
 
