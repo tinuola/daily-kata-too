@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 137</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (81), 8kyu (52)</sub><br>
+<sub>Count: 138</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (82), 8kyu (52)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 133 : [Limit string length - 1](https://www.codewars.com/kata/5208fc3cb613bc725f000142/) <sub>_7kyu_</sub>
 
 Day 132 : [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/) <sub>_7kyu_</sub>
 
