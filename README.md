@@ -4,14 +4,16 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 141</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (83), 8kyu (54)</sub><br>
+<sub>Count: 142</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (85), 8kyu (54)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
 
-Day 136 : [Incorrect division method](https://www.codewars.com/kata/54d1c59aba326343c80000e7/) <sub>_8kyu_</sub>
+Day 137 : [Happy Birthday, Darling!](https://www.codewars.com/kata/5e96332d18ac870032eb735f/) <sub>_7kyu_</sub>
+
+Day 136 : [Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139) <sub>_7kyu_</sub>
 
 Day 135 : [Get decimal part of the given number](https://www.codewars.com/kata/586e4c61aa0428f04e000069/) <sub>_7kyu_</sub>
 
