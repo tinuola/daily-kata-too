@@ -4,12 +4,14 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 142</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (85), 8kyu (54)</sub><br>
+<sub>Count: 143</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (85), 8kyu (55)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 138 : [Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026/) <sub>_8kyu_</sub>
 
 Day 137 : [Happy Birthday, Darling!](https://www.codewars.com/kata/5e96332d18ac870032eb735f/) <sub>_7kyu_</sub>
 
