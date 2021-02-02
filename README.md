@@ -4,12 +4,17 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 143</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (85), 8kyu (55)</sub><br>
+<sub>Count: 144</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (85), 8kyu (56)</sub><br>
 <sub>Missed Days: 2</sub><br>
+<sub>Skip Days (Weekends after Day 138: 1</sub>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 140: [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb) <sub>_8kyu_</sub>
+
+Day 139 : Skip
 
 Day 138 : [Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026/) <sub>_8kyu_</sub>
 
