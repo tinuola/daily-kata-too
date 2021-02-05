@@ -4,15 +4,17 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 146</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (87), 8kyu (56)</sub><br>
+<sub>Count: 147</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (88), 8kyu (56)</sub><br>
 <sub>Missed Days: 2</sub><br>
-<sub>Skip Days (Weekends after Day 138: 1</sub>
+<sub>Skip Days (Weekends after Day 138: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
 
-Day 142 : [Holiday III - Fire on the boat](https://www.codewars.com/kata/57e8fba2f11c647abc000944/)<sub>_7kyu_</sub>
+Day 143 : [Number to digit tiers](https://www.codewars.com/kata/586bca7fa44cfc833e00005c/) <sub>_7kyu_</sub>
+
+Day 142 : [Holiday III - Fire on the boat](https://www.codewars.com/kata/57e8fba2f11c647abc000944/) <sub>_7kyu_</sub>
 
 Day 141 : [Letterbox Paint-Squad](https://www.codewars.com/kata/597d75744f4190857a00008d/) <sub>_7kyu_</sub>
 
