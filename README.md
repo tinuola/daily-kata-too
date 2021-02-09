@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 148</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (88), 8kyu (57)</sub><br>
+<sub>Count: 149</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (89), 8kyu (57)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138: 1</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 145 : [Double Sort](https://www.codewars.com/kata/57cc79ec484cf991c900018d) <sub>_7kyu_</sub>
 
 Day 144 : [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/) <sub>_8kyu_</sub>
 
