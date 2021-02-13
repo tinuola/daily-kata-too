@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 152</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (91), 8kyu (58)</sub><br>
+<sub>Count: 153</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (92), 8kyu (58)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 3</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 151 : [Hells Kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/) <sub>_7kyu_</sub>
 
 Day 150 : [Rearrange Number to Get its Maximum](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc/) <sub>_7kyu_</sub>
 
