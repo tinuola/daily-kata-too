@@ -4,13 +4,19 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 153</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (92), 8kyu (58)</sub><br>
+<sub>Count: 154</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (93), 8kyu (58)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 3</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 154 : [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021/) <sub>_7kyu_</sub>
+
+Day 153 : Skip
+
+Day 152 : Skip
 
 Day 151 : [Hells Kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/) <sub>_7kyu_</sub>
 
