@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 155</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (94), 8kyu (58)</sub><br>
+<sub>Count: 156</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (94), 8kyu (59)</sub><br>
 <sub>Missed Days: 2</sub><br>
-<sub>Skip Days (Weekends after Day 138): 3</sub><br>
+<sub>Skip Days (Weekends after Day 138): 5</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 156 : [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054/) <sub>_8kyu_</sub>
 
 Day 155 : [Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76/) <sub>_7kyu_</sub>
 
