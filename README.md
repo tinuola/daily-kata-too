@@ -4,13 +4,19 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 157</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (94), 8kyu (60)</sub><br>
+<sub>Count: 158</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (94), 8kyu (61)</sub><br>
 <sub>Missed Days: 2</sub><br>
-<sub>Skip Days (Weekends after Day 138): 5</sub><br>
+<sub>Skip Days (Weekends after Day 138): 7</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 160 : Skip
+
+Day 159 : Skip
+
+Day 158 : [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/) <sub>_8kyu_</sub>
 
 Day 157 : [Find the position!](https://www.codewars.com/kata/5808e2006b65bff35500008f/) <sub>_8kyu_</sub>
 
