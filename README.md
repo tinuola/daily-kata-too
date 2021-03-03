@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 164</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (98), 8kyu (63)</sub><br>
+<sub>Count: 165</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (99), 8kyu (63)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 9</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 169 : [Separate basic types](https://www.codewars.com/kata/60113ded99cef9000e309be3/) <sub>_7kyu_</sub>
 
 Day 168 : [Grasshopper - Terminal game move function](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/) <sub>_8kyu_</sub>
 
