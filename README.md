@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 166</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (100), 8kyu (64)</sub><br>
+<sub>Count: 168</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (101), 8kyu (64)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 9</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 172 : [Number with 3 roots](https://www.codewars.com/kata/5932c94f6aa4d1d786000028) <sub>_7kyu_</sub>
 
 Day 171 : [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) <sub>_8kyu_</sub>
 
