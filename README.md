@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 169</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (102), 8kyu (64)</sub><br>
+<sub>Count: 170</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (103), 8kyu (64)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 11</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 176 : [transform an array into a string](https://www.codewars.com/kata/59a602dc57019008d900004e/) <sub>_7kyu_</sub>
 
 Day 175 : [Get the integers between two numbers]() <sub>_7kyu_</sub>
 
