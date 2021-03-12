@@ -4,13 +4,15 @@
 
 Start Date: September 15, 2020<br>
 
-<sub>Count: 171</sub><br>
-<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (104), 8kyu (64)</sub><br>
+<sub>Count: 172</sub><br>
+<sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (105), 8kyu (64)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 11</sub><br>
 <sub>DNS: 1</sub>
 
 <br><br>
+
+Day 178 : [Reverse the bits in an integer](https://www.codewars.com/kata/5959ec605595565f5c00002b) <sub>_7kyu_</sub>
 
 Day 177 : [No oddities here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/) <sub>_7kyu_</sub>
 
