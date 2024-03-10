@@ -8,9 +8,11 @@ Start Date: September 15, 2020<br>
 <sub>Stats: 1kyu (), 2kyu (), 3kyu (), 4kyu (), 5kyu (2), 6kyu (2), 7kyu (106), 8kyu (64)</sub><br>
 <sub>Missed Days: 2</sub><br>
 <sub>Skip Days (Weekends after Day 138): 11</sub><br>
-<sub>DNS: 1</sub>
+<sub>Did not solve: 1</sub>
 
 <br><br>
+
+## Day 151 - 
 
 Day 179 : [The Coupon Code](https://www.codewars.com/kata/539de388a540db7fec000642/) <sub>_7kyu_</sub>
 
@@ -69,6 +71,8 @@ Day 153 : Skip
 Day 152 : Skip
 
 Day 151 : [Hells Kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/) <sub>_7kyu_</sub>
+
+## Day 101 - 150
 
 Day 150 : [Rearrange Number to Get its Maximum](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc/) <sub>_7kyu_</sub>
 
@@ -171,6 +175,8 @@ Day 103 : (2 8kyu counting as 1)
 Day 102 : [Array Array Array](https://www.codewars.com/kata/57eb936de1051801d500008a/) <sub>_7kyu_</sub>
 
 Day 101 : [Nth Smallest Element (Array Series #4)](https://www.codewars.com/kata/5a512f6a80eba857280000fc/) <sub>_7kyu_</sub>
+
+## Day 51 - 100
 
 Day 100 : [Thinking & Testing : Something capitalized](https://www.codewars.com/kata/56d93f249c844788bc000002/) <sub>_7kyu_</sub>
 
@@ -275,6 +281,8 @@ Day 053: [I love you, a little , a lot, passionately ... not at all](https://www
 Day 052: [Palindrome Strings](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/) <sub>_8kyu_</sub>
 
 Day 051: [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57/) <sub>_7kyu_</sub> 
+
+## Day 1 - 50
 
 Day 050: [Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4) <sub>_7kyu_</sub>
 
